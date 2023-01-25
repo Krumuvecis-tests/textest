@@ -2,6 +2,6 @@
 
 An equation:
 
-$y=x+1$
+$y={x_1}^2+1$
 
 *Text again...*
