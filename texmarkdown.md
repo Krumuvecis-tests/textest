@@ -2,6 +2,6 @@
 
 An equation:
 
-$y={x_1}^2+1$
+${x_n}={x_n-1}^2+1$
 
 *Text again...*
